@@ -13,6 +13,7 @@
 		9C2337061EF49B6A00A4B72E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C2337051EF49B6A00A4B72E /* Assets.xcassets */; };
 		9C2337091EF49B6A00A4B72E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C2337071EF49B6A00A4B72E /* LaunchScreen.storyboard */; };
 		9C2337141EF49B6A00A4B72E /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2337131EF49B6A00A4B72E /* FoodTrackerTests.swift */; };
+		9C23371F1EF4A93500A4B72E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9C23371E1EF4A93500A4B72E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9C23370F1EF49B6A00A4B72E /* FoodTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C2337131EF49B6A00A4B72E /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		9C2337151EF49B6A00A4B72E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C23371E1EF4A93500A4B72E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; lineEnding = 0; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				9C2337051EF49B6A00A4B72E /* Assets.xcassets */,
 				9C2337071EF49B6A00A4B72E /* LaunchScreen.storyboard */,
 				9C23370A1EF49B6A00A4B72E /* Info.plist */,
+				9C23371E1EF4A93500A4B72E /* README.md */,
 			);
 			path = FoodTracker;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C23371F1EF4A93500A4B72E /* README.md in Sources */,
 				9C2337011EF49B6A00A4B72E /* ViewController.swift in Sources */,
 				9C2336FF1EF49B6A00A4B72E /* AppDelegate.swift in Sources */,
 			);
