@@ -18,7 +18,7 @@ import UIKit
 			updateButtonSelectionStates()
 		}
 	}
-
+	
 	@IBInspectable var starSize: CGSize = CGSize(width: 44.0, height: 44.0) {
 		didSet {
 			setupButtons()
@@ -31,7 +31,7 @@ import UIKit
 		}
 	}
 	
-    //MARK: Initialization
+	//MARK: Initialization
 	
 	override init(frame: CGRect) {
 		super.init(frame: frame)
@@ -62,7 +62,7 @@ import UIKit
 	}
 	
 	//MARK: Private Methods
-
+	
 	private func setupButtons() {
 		// clear any existing buttons
 		for button in ratingButtons {
