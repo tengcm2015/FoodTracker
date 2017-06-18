@@ -15,6 +15,7 @@
 		9C2337141EF49B6A00A4B72E /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2337131EF49B6A00A4B72E /* FoodTrackerTests.swift */; };
 		9C23371F1EF4A93500A4B72E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 9C23371E1EF4A93500A4B72E /* README.md */; };
 		9CA2D1B11EF506D2002A63D4 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA2D1B01EF506D2002A63D4 /* RatingControl.swift */; };
+		9CA2D1B71EF5F9A4002A63D4 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA2D1B61EF5F9A4002A63D4 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		9C2337151EF49B6A00A4B72E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C23371E1EF4A93500A4B72E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; lineEnding = 0; path = README.md; sourceTree = SOURCE_ROOT; };
 		9CA2D1B01EF506D2002A63D4 /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		9CA2D1B61EF5F9A4002A63D4 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				9C2336FE1EF49B6A00A4B72E /* AppDelegate.swift */,
 				9C2337001EF49B6A00A4B72E /* ViewController.swift */,
 				9CA2D1B01EF506D2002A63D4 /* RatingControl.swift */,
+				9CA2D1B61EF5F9A4002A63D4 /* Meal.swift */,
 				9C2337021EF49B6A00A4B72E /* Main.storyboard */,
 				9C2337051EF49B6A00A4B72E /* Assets.xcassets */,
 				9C2337071EF49B6A00A4B72E /* LaunchScreen.storyboard */,
@@ -207,6 +210,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CA2D1B71EF5F9A4002A63D4 /* Meal.swift in Sources */,
 				9CA2D1B11EF506D2002A63D4 /* RatingControl.swift in Sources */,
 				9C23371F1EF4A93500A4B72E /* README.md in Sources */,
 				9C2337011EF49B6A00A4B72E /* ViewController.swift in Sources */,
